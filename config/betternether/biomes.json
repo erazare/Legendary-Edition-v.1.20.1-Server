@@ -54,7 +54,7 @@
         }
       }
     },
-    "soul_sand_valley": {
+    "nether_wastes": {
       "spawn": {
         "ambient": {
           "betternether": {
@@ -108,7 +108,7 @@
         }
       }
     },
-    "nether_wastes": {
+    "soul_sand_valley": {
       "spawn": {
         "ambient": {
           "betternether": {
@@ -137,7 +137,34 @@
     }
   },
   "regions_unexplored": {
-    "corrupted_holt": {
+    "redstone_hell": {
+      "spawn": {
+        "ambient": {
+          "betternether": {
+            "firefly": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 1]": 1,
+              "maxGroupSize [default: 3]": 3
+            },
+            "hydrogen_jellyfish": {
+              "weight [default: 5]": 5,
+              "minGroupSize [default: 2]": 2,
+              "maxGroupSize [default: 6]": 6
+            }
+          }
+        },
+        "monster": {
+          "betternether": {
+            "naga": {
+              "weight [default: 8]": 8,
+              "minGroupSize [default: 3]": 3,
+              "maxGroupSize [default: 5]": 5
+            }
+          }
+        }
+      }
+    },
+    "blackstone_basin": {
       "spawn": {
         "ambient": {
           "betternether": {
@@ -191,33 +218,6 @@
         }
       }
     },
-    "redstone_hell": {
-      "spawn": {
-        "ambient": {
-          "betternether": {
-            "firefly": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 1]": 1,
-              "maxGroupSize [default: 3]": 3
-            },
-            "hydrogen_jellyfish": {
-              "weight [default: 5]": 5,
-              "minGroupSize [default: 2]": 2,
-              "maxGroupSize [default: 6]": 6
-            }
-          }
-        },
-        "monster": {
-          "betternether": {
-            "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
-              "maxGroupSize [default: 5]": 5
-            }
-          }
-        }
-      }
-    },
     "glistering_meadow": {
       "spawn": {
         "ambient": {
@@ -245,7 +245,7 @@
         }
       }
     },
-    "blackstone_basin": {
+    "corrupted_holt": {
       "spawn": {
         "ambient": {
           "betternether": {

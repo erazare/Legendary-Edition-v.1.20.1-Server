@@ -4,7 +4,7 @@
     "offerConfigs [default: true]": true,
     "offerFiles [default: true]": true,
     "offerMods [default: true]": true,
-    "offerAllMods [default: false]": false,
+    "offerAllMods [default: false]": true,
     "sendAllModInfo [default: false]": false,
     "additionalMods": [],
     "excludeMods": [],
