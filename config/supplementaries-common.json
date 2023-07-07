@@ -37,7 +37,8 @@
     },
     "faucet": {
       "enabled": true,
-      "drop_items": false
+      "spill_items": true,
+      "fill_entities_below": false
     },
     "wind_vane": true,
     "clock_block": true,
