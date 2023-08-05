@@ -3,13 +3,13 @@
 [region_weights]
 	#Sets Terrablender region weight for the primary region.
 	#Range: 0 ~ 2147483646
-	primary_region_weight = 14
+	primary_region_weight = 11
 	#Sets Terrablender region weight for Nether region.
 	#Range: 0 ~ 2147483646
-	nether_region_weight = 20
+	nether_region_weight = 14
 	#Sets Terrablender region weight for the secondary region.
 	#Range: 0 ~ 2147483646
-	secondary_region_weight = 16
+	secondary_region_weight = 8
 
 [biome_toggles]
 	toggle_fungal_fen = true
@@ -32,12 +32,14 @@
 	toggle_boreal_forest = true
 	toggle_giant_bayou = true
 	toggle_highland_fields = true
+	#cave_biomes
 	toggle_scorching_caves = true
 	toggle_arid_mountains = true
 	toggle_outback = true
 	toggle_cold_river = true
 	toggle_gravel_beach = true
 	toggle_mauve_hills = true
+	#nether_biomes
 	toggle_mycotoxic_undergrowth = true
 	toggle_baobab_savanna = true
 	#overworld_biomes
@@ -62,11 +64,9 @@
 	toggle_shrubland = true
 	toggle_icy_desert = true
 	toggle_corrupted_holt = true
-	#cave_biomes
 	toggle_bioshroom_caves = true
 	toggle_prismachasm = true
 	toggle_chalk_cliffs = true
-	#nether_biomes
 	toggle_blackstone_basin = true
 	toggle_steppe = true
 	toggle_cold_boreal_forest = true
@@ -94,7 +94,7 @@
 	#Sets Eucalyptus colour saturation.
 	#Range: 0.0 ~ 1.0
 	eucalyptus_saturation = 0.5
-	#Sets Eucalyptus colour brightness.
+	#Sets Eucalyptus colour saturation.
 	#Range: 0.0 ~ 1.0
 	eucalyptus_brightness = 0.8
 	#block_color_options
