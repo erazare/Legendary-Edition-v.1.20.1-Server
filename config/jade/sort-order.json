@@ -52,9 +52,10 @@
   "minecraft:item_ber": null,
   "minecraft:item_storage": null,
   "minecraft:fluid_storage": null,
-  "tombstone:graves": null,
-  "ars_nouveau:mob_jar": null,
   "minecraft:zombie_villager": null,
+  "levelz:mineable_info": null,
+  "treechop:plugin": null,
+  "jade:object_name": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
   "minecraft:command_block": null,
@@ -72,6 +73,5 @@
   "minecraft:item_storage": null,
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
-  "minecraft:progress": null,
-  "jade:object_name": null
+  "minecraft:progress": null
 }

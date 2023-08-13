@@ -1,0 +1,691 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "origins_paps_fantasy:giant": {
+      "enabled": true,
+      "origins_paps_fantasy:giant_size": true,
+      "origins_paps_fantasy:giant_health": true,
+      "origins_paps_fantasy:giant_hunger": true,
+      "origins_paps_fantasy:giant_mount": true,
+      "origins_paps_fantasy:giant_weight": true,
+      "origins_paps_fantasy:giant_knockbackres": true,
+      "origins_paps_fantasy:giant_smash": true,
+      "origins_paps_fantasy:giant_dismount": true
+    },
+    "origins-classes:warrior": {
+      "enabled": true,
+      "origins-classes:more_attack_damage": true,
+      "origins-classes:less_shield_slowdown": true
+    },
+    "origins:elytrian": {
+      "enabled": true,
+      "origins:elytra": true,
+      "origins:launch_into_air": true,
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
+    },
+    "originsubspecies:arachnid_bertran": {
+      "enabled": true,
+      "originsubspecies:miniscule": true,
+      "originsubspecies:hide_away": true,
+      "originsubspecies:hit_and_run": true,
+      "originsubspecies:squishy": true
+    },
+    "originsubspecies:avian_flamefowl": {
+      "enabled": true,
+      "origins:nether_spawn": true,
+      "originsubspecies:flaming_feathers": true,
+      "origins:water_vulnerability": true,
+      "originsubspecies:aerial_acrobat": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
+    },
+    "originsubspecies:human_shulk_halfborn": {
+      "enabled": true,
+      "origins:shulker_inventory": true,
+      "originsubspecies:armored": true,
+      "origins:more_exhaustion": true
+    },
+    "origins_paps_fantasy:orc": {
+      "enabled": true,
+      "origins_paps_fantasy:orc_strength": true,
+      "origins_paps_fantasy:orc_weight": true,
+      "origins_paps_fantasy:orc_skin": true,
+      "origins_paps_fantasy:orc_might": true,
+      "origins_paps_fantasy:orc_size": true
+    },
+    "originsubspecies:merling_lifeless": {
+      "enabled": true,
+      "originsubspecies:burn_in_sun": true,
+      "originsubspecies:reanimated": true,
+      "originsubspecies:ocean_ruin_spawn": true,
+      "originsubspecies:undead": true,
+      "origins:carnivore": true
+    },
+    "origins-classes:explorer": {
+      "enabled": true,
+      "origins-classes:explorer_kit": true,
+      "origins-classes:no_sprint_exhaustion": true
+    },
+    "rpg_origins:knight": {
+      "enabled": true,
+      "rpg_origins:durable": true,
+      "origins:more_exhaustion": true,
+      "rpg_origins:prepared": true,
+      "rpg_origins:trained": true
+    },
+    "origins-classes:rancher": {
+      "enabled": true,
+      "origins-classes:twin_breeding": true,
+      "origins-classes:more_animal_loot": true
+    },
+    "origins:blazeborn": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:hotblooded": true,
+      "bot:water_vulnerability": true,
+      "origins:flame_particles": true,
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true
+    },
+    "originsubspecies:enderian_sentinel": {
+      "enabled": true,
+      "origins:natural_armor": true,
+      "originsubspecies:great_stature": true,
+      "origins:more_exhaustion": true,
+      "origins:more_kinetic_damage": true,
+      "originsubspecies:warp_combat": true,
+      "originsubspecies:water_weakness": true
+    },
+    "origins-classes:farmer": {
+      "enabled": true,
+      "origins-classes:more_crop_drops": true,
+      "origins-classes:better_bone_meal": true
+    },
+    "originsubspecies:arachnid_tarran": {
+      "enabled": true,
+      "originsubspecies:powerful_build": true,
+      "origins:more_exhaustion": true,
+      "originsubspecies:nonbuoyant": true,
+      "originsubspecies:vulnerable_position": true,
+      "origins:natural_armor": true
+    },
+    "rpg_origins:brute": {
+      "enabled": true,
+      "rpg_origins:no_time_to_rest": true,
+      "rpg_origins:select_targets_strong": true,
+      "rpg_origins:select_targets_weak": true
+    },
+    "originsubspecies:enderian_voidbound": {
+      "enabled": true,
+      "origins:more_exhaustion": true,
+      "originsubspecies:void_strength": true,
+      "originsubspecies:unstable_armor": true,
+      "originsubspecies:abyssal_state": true
+    },
+    "origins-classes:miner": {
+      "enabled": true,
+      "origins-classes:more_stone_break_speed": true,
+      "origins-classes:no_mining_exhaustion": true
+    },
+    "rpg_origins:mage": {
+      "enabled": true,
+      "rpg_origins:fastcure": true,
+      "rpg_origins:untrained": true,
+      "rpg_origins:fireball": true,
+      "rpg_origins:water_walk": true,
+      "rpg_origins:unwieldly": true
+    },
+    "originsubspecies:avian_pteron": {
+      "enabled": true,
+      "originsubspecies:wingspan": true,
+      "origins:carnivore": true,
+      "originsubspecies:ancient_body": true,
+      "originsubspecies:vegetarian_remove": true
+    },
+    "origins-classes:cook": {
+      "enabled": true,
+      "origins-classes:better_crafted_food": true,
+      "origins-classes:more_smoker_xp": true
+    },
+    "rpg_origins:thief": {
+      "enabled": true,
+      "rpg_origins:speedy": true,
+      "rpg_origins:stealthy": true,
+      "origins:no_shield": true,
+      "rpg_origins:better_unnoticed": true,
+      "rpg_origins:uneasy_alliance": true,
+      "rpg_origins:thefty": true,
+      "rpg_origins:stealthy_damage": true,
+      "rpg_origins:weak": true
+    },
+    "originsubspecies:merling_aquaform": {
+      "enabled": true,
+      "originsubspecies:fluid_body": true,
+      "originsubspecies:evaporation": true,
+      "originsubspecies:sea_walker": true
+    },
+    "adv:adventurer": {
+      "enabled": true,
+      "adv:advancements": true,
+      "adv:argonaut_toggle": true,
+      "adv:ariel_toggle": true,
+      "adv:checklevel": true,
+      "adv:checkpowers": true,
+      "adv:craft_grimoire": true,
+      "adv:description_1": true,
+      "adv:description_2": true,
+      "adv:description_3": true,
+      "adv:description_4": true,
+      "adv:description_5": true,
+      "adv:description_6": true,
+      "adv:downsides_fear_powers": true,
+      "adv:downsides_fear": true,
+      "adv:downsides_give": true,
+      "adv:downsides_vulnerability_powers": true,
+      "adv:downsides_vulnerability": true,
+      "adv:exchange_items": true,
+      "adv:fiery_toggle": true,
+      "adv:get_experience": true,
+      "adv:items_powers": true,
+      "adv:level_up": true,
+      "adv:level": true,
+      "adv:level1": true,
+      "adv:level2": true,
+      "adv:level3": true,
+      "adv:level4": true,
+      "adv:level5": true,
+      "adv:level6": true,
+      "adv:level7": true,
+      "adv:level8": true,
+      "adv:mana_multiple": true,
+      "adv:multiplier_agility": true,
+      "adv:multiplier_defence": true,
+      "adv:multiplier_strength": true,
+      "adv:multipliers_level1": true,
+      "adv:multipliers_level2": true,
+      "adv:multipliers_level3": true,
+      "adv:multipliers_level4": true,
+      "adv:multipliers_level5": true,
+      "adv:multipliers_level6": true,
+      "adv:multipliers_level7": true,
+      "adv:multipliers_level8": true,
+      "adv:power_get_message": true,
+      "adv:stats_agility": true,
+      "adv:stats_defence": true,
+      "adv:stats_magic": true,
+      "adv:stats_strength": true,
+      "adv:stats_upgrade_advancement": true,
+      "adv:super_mobs_level1": true,
+      "adv:super_mobs_level2": true,
+      "adv:super_mobs_level3": true,
+      "adv:tier1_powers": true,
+      "adv:tier1": true,
+      "adv:tier2_powers": true,
+      "adv:tier2": true,
+      "adv:tier3_powers": true,
+      "adv:tier3": true,
+      "adv:tier4_powers": true,
+      "adv:tier4": true,
+      "adv:tier5_powers": true,
+      "adv:tier5": true,
+      "adv:train_agility": true,
+      "adv:train_defence": true,
+      "adv:train_strength": true,
+      "adv:use_grimoires": true
+    },
+    "rpg_origins:bard": {
+      "enabled": true,
+      "rpg_origins:horn_effects/ponder": true,
+      "rpg_origins:horn_effects/sing": true,
+      "rpg_origins:horn_effects/feel": true,
+      "rpg_origins:horn_effects/admire": true,
+      "rpg_origins:horn_effects/call": true,
+      "rpg_origins:horn_effects/dream": true,
+      "rpg_origins:horn_effects/seek": true,
+      "rpg_origins:horn_effects/yearn": true,
+      "rpg_origins:horn_effects/musical_talent": true,
+      "rpg_origins:musical_past": true,
+      "rpg_origins:decoy": true,
+      "origins:more_exhaustion": true,
+      "rpg_origins:not_the_smartest": true,
+      "rpg_origins:charismatic": true,
+      "rpg_origins:charismatic_toggle": true
+    },
+    "originsubspecies:elytrian_aerius": {
+      "enabled": true,
+      "origins:fragile": true,
+      "origins:fresh_air": true,
+      "originsubspecies:flight_longing": true,
+      "originsubspecies:perfected_flight": true,
+      "originsubspecies:impact_prevention": true
+    },
+    "originsubspecies:shulk_riftblade": {
+      "enabled": true,
+      "origins:carnivore": true,
+      "originsubspecies:momentum_strike": true,
+      "originsubspecies:parry": true,
+      "originsubspecies:brittle_armor": true
+    },
+    "origins_paps_fantasy:human": {
+      "enabled": true
+    },
+    "originsubspecies:none": {
+      "enabled": true
+    },
+    "originsubspecies:feline_familiarity": {
+      "enabled": true,
+      "originsubspecies:magic_immunity": true,
+      "originsubspecies:mana_strength": true,
+      "originsubspecies:spellcaster": true,
+      "originsubspecies:semiphysical": true
+    },
+    "originsubspecies:human_merling_halfborn": {
+      "enabled": true,
+      "originsubspecies:amphibious": true,
+      "originsubspecies:dehydration": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true
+    },
+    "origins_paps_fantasy:nych": {
+      "enabled": true,
+      "origins_paps_fantasy:nych_wings": true,
+      "origins_paps_fantasy:nych_launch": true,
+      "origins_paps_fantasy:nych_health": true,
+      "origins_paps_fantasy:nych_sunblind": true,
+      "origins_paps_fantasy:nych_nightvision": true,
+      "origins_paps_fantasy:nych_size": true
+    },
+    "originsubspecies:arachnid_reclutier": {
+      "enabled": true,
+      "originsubspecies:poison_immunity": true,
+      "originsubspecies:blinding_light": true,
+      "originsubspecies:withering_toxin": true,
+      "originsubspecies:small_form": true
+    },
+    "originsubspecies:elytrian_insectia": {
+      "enabled": true,
+      "originsubspecies:insect_size": true,
+      "origins:climbing": true,
+      "originsubspecies:light_body": true,
+      "originsubspecies:exoskeleton": true,
+      "originsubspecies:flammable": true,
+      "originsubspecies:spider_snack": true,
+      "originsubspecies:low_hunger": true
+    },
+    "originsubspecies:phantom_shadow": {
+      "enabled": true,
+      "originsubspecies:dark_form": true,
+      "originsubspecies:cloaked_in_shadow": true,
+      "origins:cat_vision": true,
+      "originsubspecies:too_bright": true,
+      "originsubspecies:shade_mark": true
+    },
+    "originsubspecies:human_elytrian_halfborn": {
+      "enabled": true,
+      "origins:elytra": true,
+      "originsubspecies:updraft": true,
+      "origins:claustrophobia": true
+    },
+    "origins-classes:blacksmith": {
+      "enabled": true,
+      "origins-classes:quality_equipment": true,
+      "origins-classes:efficient_repairs": true
+    },
+    "origins-classes:rogue": {
+      "enabled": true,
+      "origins-classes:sneaky": true,
+      "origins-classes:stealth": true,
+      "origins-classes:stealth_descriptor": true
+    },
+    "originsubspecies:human_phantom_halfborn": {
+      "enabled": true,
+      "origins:fragile": true,
+      "originsubspecies:gaseous_form": true
+    },
+    "origins-classes:nitwit": {
+      "enabled": true
+    },
+    "origins:enderian": {
+      "enabled": true,
+      "origins:throw_ender_pearl": true,
+      "bot:suffocate_immunity": true,
+      "bot:water_vulnerability": true,
+      "origins:pumpkin_hate": true,
+      "origins:extra_reach": true,
+      "origins:ender_particles": true,
+      "origins:damage_from_potions": true
+    },
+    "originsubspecies:human_feline_halfborn": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "origins:cat_vision": true,
+      "origins:nine_lives": true
+    },
+    "origins_paps_fantasy:dwarf": {
+      "enabled": true,
+      "origins_paps_fantasy:dwarf_swimspeed": true,
+      "origins_paps_fantasy:dwarf_mining": true,
+      "origins_paps_fantasy:dwarf_armour": true,
+      "origins_paps_fantasy:dwarf_heightfall": true,
+      "origins_paps_fantasy:dwarf_size": true,
+      "origins_paps_fantasy:dwarf_pickaxe": true,
+      "origins_paps_fantasy:dwarf_swim": true
+    },
+    "origins:feline": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "bot:weak_arms": true,
+      "origins:scare_creepers": true,
+      "bot:cat_vision": true
+    },
+    "originsubspecies:feline_aqualine": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:swim_speed": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:aquatic": true,
+      "origins:air_from_potions": true,
+      "origins:conduit_power_on_land": true,
+      "originsubspecies:pescitarian": true,
+      "originsubspecies:bottom_feeder": true
+    },
+    "originsubspecies:human_avian_halfborn": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "origins:like_air": true,
+      "origins:fresh_air": true
+    },
+    "rpg_origins:cleric": {
+      "enabled": true,
+      "rpg_origins:villagefriendly": true,
+      "rpg_origins:untrained": true,
+      "rpg_origins:brewer_jumpboost": true,
+      "rpg_origins:brewer_speed": true,
+      "rpg_origins:brewer_strength": true,
+      "rpg_origins:brewer_regeneration": true,
+      "rpg_origins:heal_pool": true,
+      "rpg_origins:forgivable": true,
+      "rpg_origins:pure": true,
+      "rpg_origins:pure_color": true,
+      "rpg_origins:pure_shake": true,
+      "rpg_origins:one_with_the_world": true
+    },
+    "originsubspecies:human_enderian_halfborn": {
+      "enabled": true,
+      "originsubspecies:quickwarp": true,
+      "origins:extra_reach": true,
+      "origins:water_vulnerability": true
+    },
+    "originsubspecies:feline_pantheria": {
+      "enabled": true,
+      "origins:climbing": true,
+      "originsubspecies:good_swimmer": true,
+      "originsubspecies:camoflage": true,
+      "originsubspecies:sneak_attack": true,
+      "origins:carnivore": true,
+      "originsubspecies:crepuscular_shift": true
+    },
+    "origins_paps_fantasy:elf": {
+      "enabled": true,
+      "origins_paps_fantasy:elf_bowspeed": true,
+      "origins_paps_fantasy:elf_size": true,
+      "origins_paps_fantasy:elf_wither": true,
+      "origins_paps_fantasy:elf_leaves": true,
+      "origins_paps_fantasy:elf_strength": true
+    },
+    "originsubspecies:elytrian_galaxian": {
+      "enabled": true,
+      "originsubspecies:ender_pocket": true,
+      "originsubspecies:airborne_transport": true,
+      "origins:water_vulnerability": true,
+      "originsubspecies:galactic_energy": true,
+      "originsubspecies:galactic_skin": true
+    },
+    "origins:phantom": {
+      "enabled": true,
+      "origins:phantomize": true,
+      "origins:translucent": true,
+      "origins:phasing": true,
+      "origins:invisibility": true,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
+      "origins:phantomize_overlay": true
+    },
+    "origins-classes:beastmaster": {
+      "enabled": true,
+      "origins-classes:tamed_animal_boost": true,
+      "origins-classes:tamed_potion_diffusal": true
+    },
+    "origins-classes:merchant": {
+      "enabled": true,
+      "origins-classes:trade_availability": true,
+      "origins-classes:rare_wandering_loot": true
+    },
+    "originsubspecies:shulk_endsoul": {
+      "enabled": true,
+      "originsubspecies:magic_immunity": true,
+      "originsubspecies:shulker_shot": true,
+      "originsubspecies:magic_exhaustion": true,
+      "originsubspecies:energy_blocker": true,
+      "originsubspecies:shulker_particles": true
+    },
+    "origins:avian": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "origins:fresh_air": true,
+      "origins:like_air": true,
+      "bot:tailwind": true,
+      "bot:flap": true,
+      "bot:can_flap": true,
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true
+    },
+    "origins_paps_fantasy:psari": {
+      "enabled": true,
+      "origins_paps_fantasy:psari_skin": true,
+      "origins_paps_fantasy:psari_trident": true,
+      "origins_paps_fantasy:psari_waterbreath": true,
+      "origins_paps_fantasy:psari_watermine": true,
+      "origins_paps_fantasy:psari_waterspeed": true,
+      "origins_paps_fantasy:psari_regen": true,
+      "origins_paps_fantasy:psari_fireweakness": true,
+      "origins_paps_fantasy:psari_inkdef": true,
+      "origins_paps_fantasy:psari_sound": true,
+      "origins_paps_fantasy:psari_ink": true,
+      "origins_paps_fantasy:psari_bubble": true,
+      "origins_paps_fantasy:psari_swimspeed": true,
+      "origins_paps_fantasy:psari_size": true
+    },
+    "origins-classes:archer": {
+      "enabled": true,
+      "origins-classes:no_projectile_divergence": true,
+      "origins-classes:less_bow_slowdown": true
+    },
+    "originsubspecies:avian_laridaeus": {
+      "enabled": true,
+      "origins:water_vision": true,
+      "originsubspecies:long_breath": true,
+      "originsubspecies:webbed_feet": true,
+      "originsubspecies:pescitarian": true,
+      "originsubspecies:ocean_home": true,
+      "originsubspecies:vegetarian_remove": true
+    },
+    "originsubspecies:shulk_steelskin": {
+      "enabled": true,
+      "originsubspecies:truly_unwieldy": true,
+      "originsubspecies:impenetrable_armor": true,
+      "originsubspecies:heavy_body": true
+    },
+    "originsubspecies:arachnid_leaper": {
+      "enabled": true,
+      "originsubspecies:strong_legs": true,
+      "originsubspecies:silk_chute": true,
+      "origins:claustrophobia": true
+    },
+    "originsubspecies:blazeborn_frostfire": {
+      "enabled": true,
+      "originsubspecies:chilled_form": true,
+      "originsubspecies:frigid_strikes": true,
+      "originsubspecies:cold_snap": true,
+      "origins:fragile": true,
+      "originsubspecies:frostfire_particle_change": true
+    },
+    "originsubspecies:phantom_wraith": {
+      "enabled": true,
+      "originsubspecies:wraith_form": true,
+      "originsubspecies:phantom_instability": true
+    },
+    "origins_paps_fantasy:goblin": {
+      "enabled": true,
+      "origins_paps_fantasy:goblin_skin": true,
+      "origins_paps_fantasy:goblin_size": true,
+      "origins_paps_fantasy:goblin_health": true,
+      "origins_paps_fantasy:goblin_hunger": true,
+      "origins_paps_fantasy:goblin_poison": true,
+      "origins_paps_fantasy:goblin_lightweight": true,
+      "origins_paps_fantasy:goblin_swimspeed": true,
+      "origins_paps_fantasy:goblin_goldxp": true
+    },
+    "originsubspecies:human_arachnid_halfborn": {
+      "enabled": true,
+      "origins:fragile": true,
+      "originsubspecies:spider_leap": true,
+      "origins:master_of_webs": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "origins-classes:lumberjack": {
+      "enabled": true,
+      "origins-classes:tree_felling": true,
+      "origins-classes:more_planks_from_logs": true
+    },
+    "rpg_origins:archer": {
+      "enabled": true,
+      "rpg_origins:marksman": true,
+      "rpg_origins:untrained": true,
+      "rpg_origins:inexperienced": true,
+      "rpg_origins:resourceful": true,
+      "rpg_origins:quiver": true
+    },
+    "originsubspecies:human_blaze_halfborn": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "originsubspecies:lava_swim": true,
+      "origins:water_vulnerability": true
+    },
+    "originsubspecies:merling_shellbearer": {
+      "enabled": true,
+      "origins:no_shield": true,
+      "originsubspecies:sturdy_shell": true,
+      "originsubspecies:crushing_claw": true,
+      "originsubspecies:claw_grip": true,
+      "originsubspecies:sidesprint": true,
+      "originsubspecies:amphibious": true,
+      "originsubspecies:dense": true
+    },
+    "origins:shulk": {
+      "enabled": true,
+      "origins:shulker_inventory": true,
+      "origins:natural_armor": true,
+      "bot:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true
+    },
+    "origins-classes:cleric": {
+      "enabled": true,
+      "origins-classes:longer_potions": true,
+      "origins-classes:better_enchanting": true
+    },
+    "originsubspecies:shulk_shadestep": {
+      "enabled": true,
+      "origins:fragile": true,
+      "originsubspecies:camoflage": true,
+      "originsubspecies:sneak_attack": true,
+      "originsubspecies:thinned_shell": true
+    },
+    "originsubspecies:blazeborn_chargex": {
+      "enabled": true,
+      "originsubspecies:electrical_fire": true,
+      "originsubspecies:chargex_particles": true,
+      "originsubspecies:hypercharge": true,
+      "origins:more_kinetic_damage": true
+    },
+    "origins:merling": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true,
+      "bot:air_from_cauldron": true
+    },
+    "originsubspecies:blazeborn_magmatic": {
+      "enabled": true,
+      "originsubspecies:lava_swim": true,
+      "originsubspecies:of_magma": true,
+      "originsubspecies:magmatic_wrath": true,
+      "originsubspecies:water_weakness": true,
+      "originsubspecies:volcanic_cooling": true
+    },
+    "origins:arachnid": {
+      "enabled": true,
+      "origins:climbing": true,
+      "bot:break_speed": true,
+      "bot:master_of_webs": true,
+      "origins:carnivore": true,
+      "origins:fragile": true,
+      "origins:arthropod": true,
+      "origins:no_cobweb_slowdown": true
+    },
+    "origins_paps_fantasy:halfling": {
+      "enabled": true,
+      "origins_paps_fantasy:halfling_size": true,
+      "origins_paps_fantasy:halfling_lightweight": true,
+      "origins_paps_fantasy:halfling_trades": true,
+      "origins_paps_fantasy:halfling_health": true,
+      "origins_paps_fantasy:halfling_lucky": true,
+      "origins_paps_fantasy:halfling_invis": true
+    },
+    "originsubspecies:enderian_farlander": {
+      "enabled": true,
+      "originsubspecies:random_teleport": true,
+      "originsubspecies:projectile_immune": true,
+      "originsubspecies:poor_swimmer": true
+    },
+    "originsubspecies:phantom_eternal": {
+      "enabled": true,
+      "originsubspecies:soulbound": true,
+      "originsubspecies:spirit_binding": true,
+      "originsubspecies:restless_soul": true,
+      "originsubspecies:spirit_body": true,
+      "originsubspecies:degrading_soul": true
+    },
+    "origins_paps_fantasy:vipera": {
+      "enabled": true,
+      "origins_paps_fantasy:vipera_size": true,
+      "origins_paps_fantasy:vipera_skin": true,
+      "origins_paps_fantasy:vipera_venom": true,
+      "origins_paps_fantasy:vipera_sandslither": true,
+      "origins_paps_fantasy:vipera_poisonres": true,
+      "origins_paps_fantasy:vipera_coldweak": true,
+      "origins_paps_fantasy:vipera_powsnowweak": true,
+      "origins_paps_fantasy:vipera_drip": true,
+      "origins_paps_fantasy:vipera_hotstrength": true
+    }
+  }
+}
